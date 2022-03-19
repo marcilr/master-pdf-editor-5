@@ -1,0 +1,203 @@
+master-pdf-editor.txt
+Created Wed 29 Dec 2021 12:37:32 PM AKST
+Copyright (C) 2021 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Master PDF Editer 5
+
+
+Master PDF Editor is straightforward, easy to use application 
+for working with PDF documents equipped with powerful multi-purpose 
+functionality.  With Master PDF Editor you can easily view, create 
+and modify PDF documents.  The application enables you to merge 
+several files into one, split a source document into multiple 
+documents, and also to comment, sign and encrypt PDF files.
+
+View, create, modify, sign, scan, OCR and print PDF documents
+o Modify text and objects
+o Annotate PDF documents
+o Create and fill in PDF forms
+o Optical character recognition
+o Operations on PDF pages
+o PDF Bookmarks
+o Virtual PDF printer
+o Digital signatures
+o Create PDF documents
+--Master PDF Editor 5 is a multifunctional PDF Editor
+https://code-industry.net/masterpdfeditor/
+
+
+
+Wed 23 Feb 2022 01:02:22 PM AKST
+================================
+When prompted downloaded latest edition of Master PDF Editor 5.
+
+master-pdf-editor-5.8.33-qt5.x86_64.deb
+
+Installed with:
+$ sudo dpkg -i ~/Downloads/master-pdf-editor-5.8.33-qt5.x86_64.deb
+[sudo] password for marcilr: 
+Selecting previously unselected package master-pdf-editor-5.
+(Reading database ... 384901 files and directories currently installed.)
+Preparing to unpack .../master-pdf-editor-5.8.33-qt5.x86_64.deb ...
+Unpacking master-pdf-editor-5 (5.8.33-1) ...
+Replacing files in old package master-pdf-editor (5.8.20) ...
+Setting up master-pdf-editor-5 (5.8.33-1) ...
+Processing triggers for desktop-file-utils (0.23-4) ...
+Processing triggers for mime-support (3.62) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+$
+
+Tested with:
+click Debian mouse > Graphics > Master PDF Editor 5
+click Help > About
+
+Master PDF Editor
+Version Info
+Build 5.8.33, 64-bit
+
+Built with
+GCC: 7.3.1
+GLIBC: 2.17
+Qt: 5.9.5
+SANE: 1.0.25
+
+https://code-industry.net
+Copyright (C) 2016-2022 Code Industry Ltd. All rights reserved
+
+Master PDF Editor 5 v5.8.33, 64-bit upgrade is good.
+
+click OK
+
+
+Fri 07 Jan 2022 12:55:15 PM AKST
+================================
+Working on the Alaska Permanent Fund Divident Payment Method
+Form with Master PDF Editor 5 it advised a watermark would be
+added to the pdf unless I registered the application.
+
+I opted to register the application for ???
+
+In Master PDF Editor 5:
+
+click Help > Register...
+
+At Registration Info window 
+
+After your order has been completed
+you will automatically
+receive your Registration code via e-mail.
+
+click Buy Online
+
+This opened a browser window to:
+
+Purchasing Information
+Master PDF Editor - Full Version
+
+Quantity    Price
+---------------------------
+1 - 9	    USD $69.95 each   <===
+10 - 35	    USD $59.95 each
+36 - 99	    USD $49.95 each
+100 - 500   USD $39.95 each
+
+Update Policy
+-------------
+All licenses are valid indefinitely for the software product version 
+they were purchased for.  In addition, our customers are provided with 
+free updates and technical support during one year from the date of the 
+purchase.  After that, updates and support are available at half-price 
+for any other year.
+
+click Buy now
+
+Master PDF Editor   $69.95 USD
+Put on akusa
+
+Total: $69.95 USD
+click SUBMIT ORDER
+
+
+THANK YOU
+Your order has been successfully processed!
+You will soon receive an e-mail including all the information 
+regarding your purchased product(s).
+
+Order summary
+Your order ID: 23823443
+
+Order status: Processed
+
+Saved invoice to:
+https://store.payproglobal.com/Invoice?Id=ced41690-9a42-45f1-b062-1aeddfc0f56e&Date=20220107
+~/git/pdf/editors/master-pdf-editor-invoice-20220107.pdf
+
+Got two gmail messages with license details from PayPro Global.
+
+Registered and Master PDF Editor 5 displayed:
+
+Registered version
+Perchased On:              07 Jan 2022
+Maintenance Plan Exporess: 07 Jan 2023
+click Close
+
+Moved messages to new Master PDF Editor 5 folder in gmail.
+
+With registration was able to save the 
+Alaska Permanent Fund Dividend Payment Method form with outout
+watermark.  I do like the Mast PDF Editor 5 so good to purchase.
+
+Still need to insert signature on form from:
+  ~/pics/signature.png
+
+In Master PDF Editor 5 click ctrl-I to insert and image.
+
+Master PDF Editor 5 is a multifunctional PDF Editor
+https://code-industry.net/masterpdfeditor/
+
+
+Wed 29 Dec 2021 12:37:32 PM AKST
+================================
+Created this master-pdf-editor.txt with Master PDF Editor 5
+documentation.
+
+
+Tue 28 Dec 2021 16:10:47 PM AKST
+================================
+I downloaded and installed Master PDF Editor 5 package:
+  master-pdf-editor-5.8.20-qt5_included.x86_64.deb
+
+Build 5.8.20, 64 bit
+
+Built with:
+GCC: 5.3.1
+GLIB: 2.17
+Qt: 5.9.5
+SANE: 1.0.25
+
+
+Usage
+=====
+Debian mouse (top upper left) > Graphics > Master PDF Editor 5
+
+Used to successfully update the Alaska Motor Vehicle Crash Form 12-209:
+~/git/vehicle-crash-report/pdf/100156826.pdf
+
+
+License
+=======
+Free for non-comercial use, $69 for commercial use.
+
+
+
+Links
+=====
+Master PDF Editor 5 is a multifunctional PDF Editor
+code industry
+professional software solutions
+https://code-industry.net/masterpdfeditor/
+
+Master PDF Editor 5 download
+master-pdf-editor-5.8.20-qt5_included.x86_64.deb
+https://code-industry.net/get-masterpdfeditor/master-pdf-editor-5.8.20-qt5_included.x86_64.deb
